@@ -1,3 +1,6 @@
+João Pedro Pereira de Moraes
+RA: 249080
+
 Análise de Código: Complexidade Ciclomática (Classe User)
 
 Este repositório contém o código e a documentação técnica referente à análise de teste de caixa branca estática e métricas de complexidade do método `verificarUsuario`.
